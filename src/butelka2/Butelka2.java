@@ -68,7 +68,7 @@ public class Butelka2 {
 //            System.out.println(butelka[i].ileLitrow);
 //            i++;
 //        } while (i < 20);
-
+//test
         
 //        butelka[0].wlej(4);
         butelka[0].przelej(10, butelka[2]);
